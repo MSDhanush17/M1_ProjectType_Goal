@@ -17,8 +17,7 @@ The tic-tac-toe game is played on a 3x3 grid the game is played by two players, 
 
 | Code Quality |    Unit Test            |
 | ------------- | ------------- |
-| [![Codacy Badge](https://api.codiga.io/project/29970/score/svg)](https://www.codacy.com/gh/vinay3099/STEPin_Tic-tac-toe-Game/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=vinay3099/STEPin_Tic-tac-toe-Game&amp;utm_campaign=Badge_Grade)|[![Unit testing](https://github.com/vinay3099/STEPin_Tic-tac-toe-Game/actions/workflows/unit_test.yml/badge.svg)](https://github.com/vinay3099/STEPin_Tic-tac-toe-Game/actions/workflows/unit_test.yml)|
-  |[![Cpp-check](https://github.com/vinay3099/STEPin_Tic-tac-toe-Game/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/vinay3099/STEPin_Tic-tac-toe-Game/actions/workflows/c-cpp.yml)|
+| 
 
 
 

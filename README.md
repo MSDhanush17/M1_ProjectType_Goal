@@ -15,9 +15,6 @@ The tic-tac-toe game is played on a 3x3 grid the game is played by two players, 
 
 
 
-| Code Quality |    Unit Test            |
-| ------------- | ------------- |
-| 
 
 
 
